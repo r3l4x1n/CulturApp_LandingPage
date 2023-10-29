@@ -1,6 +1,6 @@
 # CulturApp
 
-![CulturaApp]()
+![CulturaApp](https://github.com/r3l4x1n/CulturApp_LandingPage/blob/main/assets/img/portafolio/Captura.PNG)
 
 ## Descripción del Proyecto
 
