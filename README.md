@@ -25,7 +25,7 @@ Después de clonar el repositorio en tu máquina local, sigue los pasos a contin
 1. Extrae el proyecto en un directorio de tu elección.
 2. Busca el archivo "index.html" y ábrelo en tu navegador.
 
-### Fuentes
+### Fuentes & Recursos
 
 - [Boxicons](https://boxicons.com/)
 - [AOS - Animate On Scroll](https://michalsnik.github.io/aos/)
