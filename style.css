@@ -695,16 +695,18 @@ section {
   background-color: #fac9a9;
   background-size: cover;
   padding: 120px 0;
+  opacity: 0.9;
 }
 
 .cta h3 {
   color: #fff;
-  font-size: 28px;
+  font-size: 38px;
   font-weight: 700;
 }
 
 .cta p {
   color: #fff;
+  font-size: 18px;
 }
 
 .cta .cta-btn {
