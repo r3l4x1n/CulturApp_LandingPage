@@ -29,6 +29,7 @@ Después de clonar el repositorio en tu máquina local, sigue los pasos a contin
 
 - [Boxicons](https://boxicons.com/)
 - [AOS - Animate On Scroll](https://michalsnik.github.io/aos/)
-- [Glightbox](https://github.com/backdrop-contrib/glightbox) 
+- [Glightbox](https://github.com/backdrop-contrib/glightbox)
+- [Swiperjs](https://swiperjs.com/)
 - [Freepik](https://www.freepik.es/)
 
