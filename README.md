@@ -16,7 +16,7 @@ CulturApp es un proyecto desarrollado utilizando tecnologías como HTML, CSS, Ja
 
 ## 📁 Acceso al Proyecto
 
-- **DEMO Link:** [https://r3l4x1n.github.io/CulturApp_LandingPage/](https://r3l4x1n.github.io/CulturApp_LandingPage/) <br>
+- **DEMO Page:** [https://r3l4x1n.github.io/CulturApp_LandingPage/](https://r3l4x1n.github.io/CulturApp_LandingPage/) <br>
 - **Puedes clonar el repositorio desde:** [aquí](https://github.com/r3l4x1n/CulturApp_LandingPage.git).
 
 ## 🛠️ Cómo Abrir y Ejecutar el Proyecto
